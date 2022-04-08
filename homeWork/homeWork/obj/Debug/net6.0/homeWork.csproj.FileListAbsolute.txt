@@ -1,0 +1,15 @@
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\bin\Debug\net6.0\homeWork.exe
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\bin\Debug\net6.0\homeWork.deps.json
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\bin\Debug\net6.0\homeWork.runtimeconfig.json
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\bin\Debug\net6.0\homeWork.dll
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\bin\Debug\net6.0\homeWork.pdb
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\homeWork.csproj.AssemblyReference.cache
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\homeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\homeWork.AssemblyInfoInputs.cache
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\homeWork.AssemblyInfo.cs
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\homeWork.csproj.CoreCompileInputs.cache
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\homeWork.dll
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\refint\homeWork.dll
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\homeWork.pdb
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\homeWork.genruntimeconfig.cache
+D:\predavanja\12C#Advance - Abstract, standard class interface\Code\homeWork\homeWork\obj\Debug\net6.0\ref\homeWork.dll
