@@ -1,0 +1,15 @@
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\bin\Debug\net6.0\Exerise01.exe
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\bin\Debug\net6.0\Exerise01.deps.json
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\bin\Debug\net6.0\Exerise01.runtimeconfig.json
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\bin\Debug\net6.0\Exerise01.dll
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\bin\Debug\net6.0\Exerise01.pdb
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\Exerise01.csproj.AssemblyReference.cache
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\Exerise01.GeneratedMSBuildEditorConfig.editorconfig
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\Exerise01.AssemblyInfoInputs.cache
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\Exerise01.AssemblyInfo.cs
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\Exerise01.csproj.CoreCompileInputs.cache
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\Exerise01.dll
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\refint\Exerise01.dll
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\Exerise01.pdb
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\Exerise01.genruntimeconfig.cache
+D:\predavanja\14#Advance  Genereic, NonGeneric Method and Extensions\Homework Exercise01\Exerise01\Exerise01\obj\Debug\net6.0\ref\Exerise01.dll
